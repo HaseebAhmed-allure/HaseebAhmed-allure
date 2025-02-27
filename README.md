@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @HaseebAhmed-allure
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-HaseebAhmed-allure/HaseebAhmed-allure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Haseeb Ahmed, a seasoned Scrum Master and Appian Analyst with over 7 years of experience in the industry.
+- 👀 I’m interested in leveraging technology to streamline business processes and enhance operational efficiency.
+- 🌱 I’m currently expanding my expertise in low-code development platforms, particularly Appian, to deliver rapid and robust solutions.
+- 💞️ I’m looking to collaborate on projects that involve digital transformation, process automation, and innovative software development.
+- 📫 You can reach me at [your email address] or connect with me on [LinkedIn profile link].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a passion for integrating cutting-edge technology with traditional business models to create seamless and efficient workflows.
