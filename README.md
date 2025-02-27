@@ -2,6 +2,6 @@
 - 👀 I’m interested in leveraging technology to streamline business processes and enhance operational efficiency.
 - 🌱 I’m currently expanding my expertise in low-code development platforms, particularly Appian, to deliver rapid and robust solutions.
 - 💞️ I’m looking to collaborate on projects that involve digital transformation, process automation, and innovative software development.
-- 📫 You can reach me at [your email address] or connect with me on [LinkedIn profile link].
+- 📫 You can reach me at haseeb_ahmed321@outlook.com or connect with me on https://www.linkedin.com/in/haseeb-ahmed-pm-4833b1182/.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a passion for integrating cutting-edge technology with traditional business models to create seamless and efficient workflows.
